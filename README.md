@@ -1,12 +1,12 @@
 # Quick App Launcher
 
-Bản thử **2.5.0-beta.2** của Quick App Launcher, © Sentechtipsvn.
+Bản thử **2.5.0-beta.3** của Quick App Launcher, © Sentechtipsvn.
 
-Beta.2 sửa lỗi iOS dừng ở **Nếu Route là** khi chọn Tải dữ liệu. Luồng chọn nhánh khớp đúng mã menu rồi kiểm tra kết quả.
+Beta.3 sửa lỗi **Gói dữ liệu thiếu hoặc thừa tệp** sau giải nén. Phím tắt kiểm tra sáu tệp theo tên sau khi lưu vào iCloud rồi mới kích hoạt. Màn hình giới hạn app cũng dùng đúng đầu vào của action Đếm.
 
 ## Sử dụng bản thử
 
-1. Mở tệp beta.2 đã ký trong Phím tắt. Nếu tự dựng, tải [phím tắt beta chưa ký](shortcuts/Quick-App-Launcher-v2.5.0-beta.2.unsigned.shortcut), ký bằng [Shortcuty](https://sign.shortcuty.app/) rồi tải tệp đã ký. Có thể đặt tên **Quick App Launcher Beta** để chạy song song với v2.4.
+1. Mở tệp beta.3 đã ký trong Phím tắt. Nếu tự dựng, tải [phím tắt beta chưa ký](shortcuts/Quick-App-Launcher-v2.5.0-beta.3.unsigned.shortcut), ký bằng [Shortcuty](https://sign.shortcuty.app/) rồi tải tệp đã ký. Có thể đặt tên **Quick App Launcher Beta** để chạy song song với v2.4.
 2. Lần đầu chạy, bấm **Tải dữ liệu**. Cấp quyền truy cập GitHub và iCloud Drive nếu iOS hỏi.
 3. Sau thông báo đã lưu, chạy lại và chọn ngôn ngữ nếu chưa có. Menu vCard gồm **Mở ứng dụng**, **Thêm ứng dụng**, **Quản lý danh sách**, **Dữ liệu & sao lưu** và **Cài đặt**.
 4. Vào **Dữ liệu & sao lưu → Tải hoặc cập nhật dữ liệu** khi cần tải lại gói. Phím tắt dùng kho dữ liệu công khai trong **iCloud Drive → Quick App Launcher Data**.
@@ -31,10 +31,10 @@ python3 build_data.py --check
 
 ## Kiểm thử trên iPhone
 
-Kiểm tra tệp workflow và các nhánh chọn menu trước khi ký.
+Kiểm tra đầu vào của action Đếm, các nhánh menu và bước xác minh tệp iCloud trước khi ký.
 
 ~~~sh
-python3 tests/check_dispatch.py shortcuts/Quick-App-Launcher-v2.5.0-beta.2.unsigned.shortcut
+python3 tests/check_dispatch.py shortcuts/Quick-App-Launcher-v2.5.0-beta.3.unsigned.shortcut
 ~~~
 
 - Tải dữ liệu lần đầu, chuyển sang Sáng/Tối và mở lại với mạng tắt khi tệp đã có trên máy.
