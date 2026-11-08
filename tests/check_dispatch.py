@@ -44,13 +44,29 @@ def route_guard(action):
 
 def check_installer(actions):
     assert all(kind != PREFIX + "count" for kind, _ in actions), "The installer must validate named files"
+    assert not any(
+        kind in (PREFIX + "number.random", PREFIX + "text.replace") for kind, _ in actions
+    ), "The staging name must not depend on formatting a random number"
+    pointers = {
+        params.get("WFGetFilePath") for kind, params in actions
+        if kind == PREFIX + "documentpicker.open" and isinstance(params.get("WFGetFilePath"), str)
+    }
+    assert {"Active.txt", "Previous.txt"} <= pointers, "Protect both pointers before staging"
     unpack = next(params for kind, params in actions if kind == PREFIX + "unzip")
     writes = [
         (index, params) for index, (kind, params) in enumerate(actions)
         if kind == PREFIX + "documentpicker.save"
     ]
     save_index, stage = next((i, p) for i, p in writes if unpack["UUID"] in references(p["WFInput"]))
-    activation = next(i for i, p in writes if p.get("WFFileDestinationPath") == "Active.txt")
+    activation, publish = next((i, p) for i, p in writes if p.get("WFFileDestinationPath") == "Active.txt")
+    staged_folder = next(
+        params for kind, params in actions
+        if kind == PREFIX + "file.createfolder" and params["UUID"] in references(stage["WFFolder"])
+    )
+    slot = publish["WFInput"]["Value"]
+    assert slot.get("VariableName") == "InstallSlot"
+    assert slot in staged_folder["WFFilePath"]["Value"]["attachmentsByRange"].values()
+    assert stage["WFSaveFileOverwrite"] is True, "A partial unprotected slot can be retried"
     validation = actions[save_index + 1:activation]
     names = next(params["WFItems"] for kind, params in validation if kind == PREFIX + "list")
     assert {item["WFValue"]["Value"]["string"] for item in names} == PACKAGE_FILES
