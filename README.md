@@ -1,21 +1,15 @@
 # Quick App Launcher
 
-Bản thử **2.5.0-beta.1** của Quick App Launcher, © Sentechtipsvn.
+Bản thử **2.5.0-beta.2** của Quick App Launcher, © Sentechtipsvn.
+
+Beta.2 sửa lỗi iOS dừng ở **Nếu Route là** khi chọn Tải dữ liệu. Luồng chọn nhánh khớp đúng mã menu rồi kiểm tra kết quả.
 
 ## Sử dụng bản thử
 
-1. Ký tệp [phím tắt beta](shortcuts/Quick-App-Launcher-v2.5.0-beta.1.unsigned.shortcut) trên macOS theo lệnh bên dưới. Mở tệp đã ký trong Phím tắt và đặt tên **Quick App Launcher Beta** để chạy song song với v2.4.
+1. Mở tệp beta.2 đã ký trong Phím tắt. Nếu tự dựng, tải [phím tắt beta chưa ký](shortcuts/Quick-App-Launcher-v2.5.0-beta.2.unsigned.shortcut), ký bằng [Shortcuty](https://sign.shortcuty.app/) rồi tải tệp đã ký. Có thể đặt tên **Quick App Launcher Beta** để chạy song song với v2.4.
 2. Lần đầu chạy, bấm **Tải dữ liệu**. Cấp quyền truy cập GitHub và iCloud Drive nếu iOS hỏi.
 3. Sau thông báo đã lưu, chạy lại và chọn ngôn ngữ nếu chưa có. Menu vCard gồm **Mở ứng dụng**, **Thêm ứng dụng**, **Quản lý danh sách**, **Dữ liệu & sao lưu** và **Cài đặt**.
 4. Vào **Dữ liệu & sao lưu → Tải hoặc cập nhật dữ liệu** khi cần tải lại gói. Phím tắt dùng kho dữ liệu công khai trong **iCloud Drive → Quick App Launcher Data**.
-
-Tệp trong repo là plist nhị phân chưa ký. Trên Mac đã đăng nhập iCloud, chạy lệnh sau từ thư mục repo để ký trước khi nhập trên iPhone.
-
-~~~sh
-shortcuts sign --mode anyone \
-  --input shortcuts/Quick-App-Launcher-v2.5.0-beta.1.unsigned.shortcut \
-  --output Quick-App-Launcher-Beta.shortcut
-~~~
 
 ## Dữ liệu và tương thích
 
@@ -36,6 +30,12 @@ python3 build_data.py --check
 `dist/manifest.json` là đầu mối tải. Mỗi tệp `launcher-data-vN.zip` có SHA-256 và phiên bản riêng. Phần dữ liệu gốc được chuyển từ repo công khai cũ và tệp v2.4 do tác giả cung cấp.
 
 ## Kiểm thử trên iPhone
+
+Kiểm tra tệp workflow và các nhánh chọn menu trước khi ký.
+
+~~~sh
+python3 tests/check_dispatch.py shortcuts/Quick-App-Launcher-v2.5.0-beta.2.unsigned.shortcut
+~~~
 
 - Tải dữ liệu lần đầu, chuyển sang Sáng/Tối và mở lại với mạng tắt khi tệp đã có trên máy.
 - Chạy beta trên máy đã dùng v2.4 và kiểm tra ngôn ngữ, icon riêng, giới hạn và danh sách app.
