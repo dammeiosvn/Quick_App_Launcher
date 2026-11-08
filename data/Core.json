@@ -1,0 +1,1819 @@
+{
+  "languages": {
+    "Arabic (Ả Rập)": "ar",
+    "Bengali (Bengal)": "bn-BD",
+    "Czech (Séc)": "cs-CZ",
+    "Danish (Đan Mạch)": "da-DK",
+    "German (Germany) (Đức)": "de-DE",
+    "Greek (Hy Lạp)": "el-GR",
+    "English (UK) (Anh)": "en-GB",
+    "English (US) (Mỹ)": "en-US",
+    "Spanish (Spain) (Tây Ban Nha)": "es-ES",
+    "Spanish (Mexico) (Mexico)": "es-MX",
+    "Persian (Ba Tư)": "fa-IR",
+    "Finnish (Phần Lan)": "fi-FI",
+    "Filipino (Philippines)": "fil-PH",
+    "French (Canada) (Pháp (Canada))": "fr-CA",
+    "French (France) (Pháp)": "fr-FR",
+    "Hindi (Hindi)": "hi-IN",
+    "Hungarian (Hungary)": "hu-HU",
+    "Indonesian (Indonesia)": "id-ID",
+    "Italian (Ý)": "it-IT",
+    "Japanese (Nhật)": "ja",
+    "Korean (Hàn)": "ko-KR",
+    "Malay (Mã Lai)": "ms-MY",
+    "Norwegian (Bokmål) (Na Uy (Bokmål))": "nb-NO",
+    "Dutch (Hà Lan)": "nl-NL",
+    "Polish (Ba Lan)": "pl-PL",
+    "Portuguese (Brazil) (Bồ Đào Nha (Brasil))": "pt-BR",
+    "Portuguese (Portugal) (Bồ Đào Nha)": "pt-PT",
+    "Romanian (Romania)": "ro-RO",
+    "Russian (Nga)": "ru",
+    "Swedish (Thụy Điển)": "sv-SE",
+    "Swahili (Swahili)": "sw-KE",
+    "Thai (Thái)": "th-TH",
+    "Turkish (Thổ Nhĩ Kỳ)": "tr-TR",
+    "Ukrainian (Ukraina)": "uk-UA",
+    "Vietnamese (Việt Nam)": "vi-VN",
+    "Chinese (Simplified) (Trung (Giản thể))": "zh-CN",
+    "Chinese (Traditional) (Trung (Phồn thể))": "zh-TW"
+  },
+  "locales": {
+    "ar": {
+      "menu": {
+        "7": "تغيير اللغة",
+        "3": "إعدادات التطبيق",
+        "8": "إضافة إلى الشاشة الرئيسية",
+        "4": "النسخ الاحتياطي والاستعادة",
+        "9": "معلومات إضافية",
+        "5": "تغيير الأيقونة",
+        "1": "إضافة تطبيق",
+        "6": "تعيين الحد",
+        "2": "حذف التطبيق",
+        "10": "رجوع"
+      },
+      "messages": {
+        "10": "أدخل الاسم",
+        "2": "اختصار Quick App Launcher من إنشاء Sentechtipsvn",
+        "15": "تنزيل",
+        "3": "التطبيق الحالي:",
+        "11": "تم تعيين حد لإضافة التطبيقات، يمكنك تغييره في إعدادات الحد!",
+        "4": "صورة",
+        "16": "تخطي",
+        "5": "ملف",
+        "12": "تطبيقات النظام",
+        "6": "النسخ الاحتياطي",
+        "13": "اختيار تطبيق",
+        "7": "استعادة",
+        "8": "إعادة تعيين",
+        "14": "الاختصار لديه إصدار تحديث جديد، هل تريد التنزيل الآن؟",
+        "1": "تم تعيين اللغة بنجاح...",
+        "9": "بحث"
+      },
+      "plugin": {
+        "1": "👋🏻 مرحباً! يحتاج هذا الاختصار إلى إضافة لعرض قائمة التطبيقات. يرجى تثبيت الإضافة الآن.",
+        "2": "تثبيت",
+        "3": "تخطي",
+        "4": "لا توجد تطبيقات في القائمة. يرجى إضافة تطبيقات من اختصار \"Quick App Launcher\".",
+        "5": "أضف هذه الإضافة لعرض قائمة تطبيقاتك !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "إضافة تطبيق"
+      }
+    },
+    "bn-BD": {
+      "menu": {
+        "7": "ভাষা পরিবর্তন করুন",
+        "3": "অ্যাপ সেটিংস",
+        "8": "হোম স্ক্রিনে যুক্ত করুন",
+        "4": "ব্যাকআপ ও পুনরুদ্ধার",
+        "9": "আরও তথ্য",
+        "5": "আইকন পরিবর্তন করুন",
+        "1": "অ্যাপ যুক্ত করুন",
+        "6": "সীমা নির্ধারণ করুন",
+        "2": "অ্যাপ মুছুন",
+        "10": "ফিরে যান"
+      },
+      "messages": {
+        "10": "নাম লিখুন",
+        "2": "Sentechtipsvn দ্বারা তৈরি Quick App Launcher শর্টকাট",
+        "15": "ডাউনলোড করুন",
+        "3": "বর্তমান অ্যাপ:",
+        "11": "অ্যাপ যোগ করার সীমা নির্ধারণ করা হয়েছে, আপনি সীমা সেটিংসে এটি পরিবর্তন করতে পারবেন!",
+        "4": "ছবি",
+        "16": "এড়িয়ে যান",
+        "5": "ফাইল",
+        "12": "সিস্টেম অ্যাপ",
+        "6": "ব্যাকআপ",
+        "13": "অ্যাপ বেছে নিন",
+        "7": "পুনরুদ্ধার করুন",
+        "8": "রিসেট করুন",
+        "14": "শর্টকাটের নতুন সংস্করণের আপডেট এসেছে, আপনি কি এখনই ডাউনলোড করতে চান?",
+        "1": "ভাষা সফলভাবে সেট হয়েছে...",
+        "9": "অনুসন্ধান করুন"
+      },
+      "plugin": {
+        "1": "👋🏻 হ্যালো! এই শর্টকাটটি অ্যাপের তালিকা প্রদর্শনের জন্য একটি প্লাগইন প্রয়োজন। এখনই প্লাগইনটি ইনস্টল করুন।",
+        "2": "ইনস্টল করুন",
+        "3": "এড়িয়ে যান",
+        "4": "তালিকায় কোনো অ্যাপ নেই। অনুগ্রহ করে \"Quick App Launcher\" শর্টকাট থেকে অ্যাপ যোগ করুন।",
+        "5": "আপনার অ্যাপের তালিকা প্রদর্শনের জন্য এই প্লাগইনটি যোগ করুন !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "অ্যাপ যুক্ত করুন"
+      }
+    },
+    "cs-CZ": {
+      "menu": {
+        "7": "Změnit jazyk",
+        "3": "Nastavení aplikace",
+        "8": "Přidat na plochu",
+        "4": "Zálohování a obnovení",
+        "9": "Další informace",
+        "5": "Změnit ikonu",
+        "1": "Přidat aplikaci",
+        "6": "Nastavit limit",
+        "2": "Smazat aplikaci",
+        "10": "Zpět"
+      },
+      "messages": {
+        "10": "Zadejte název",
+        "2": "Zkratka Quick App Launcher vytvořená uživatelem Sentechtipsvn",
+        "15": "Stáhnout",
+        "3": "Aktuální aplikace:",
+        "11": "Limit přidávání aplikací je nastaven, můžete jej změnit v nastavení limitu!",
+        "4": "Fotografie",
+        "16": "Přeskočit",
+        "5": "Soubor",
+        "12": "Systémové aplikace",
+        "6": "Zálohovat",
+        "13": "Vybrat aplikaci",
+        "7": "Obnovit",
+        "8": "Resetovat",
+        "14": "Zkratka má novou aktualizaci, chcete ji nyní stáhnout?",
+        "1": "Jazyk úspěšně nastaven...",
+        "9": "Hledat"
+      },
+      "plugin": {
+        "1": "👋🏻 Ahoj! Tato zkratka potřebuje plugin pro zobrazení seznamu aplikací. Nainstalujte plugin nyní.",
+        "2": "Nainstalovat",
+        "3": "Přeskočit",
+        "4": "V seznamu nejsou žádné aplikace. Přidejte aplikace ze zkratky \"Quick App Launcher\".",
+        "5": "Přidejte tento plugin pro zobrazení vašeho seznamu aplikací !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Přidat aplikaci"
+      }
+    },
+    "da-DK": {
+      "menu": {
+        "7": "Skift sprog",
+        "3": "Appindstillinger",
+        "8": "Føj til hjemmeskærm",
+        "4": "Sikkerhedskopiering og gendannelse",
+        "9": "Flere oplysninger",
+        "5": "Skift ikon",
+        "1": "Tilføj app",
+        "6": "Angiv grænse",
+        "2": "Slet app",
+        "10": "Tilbage"
+      },
+      "messages": {
+        "10": "Indtast navn",
+        "2": "Quick App Launcher-genvej oprettet af Sentechtipsvn",
+        "15": "Download",
+        "3": "Nuværende app:",
+        "11": "Grænse for tilføjelse af apps er indstillet, du kan ændre den i grænseindstillingerne!",
+        "4": "Foto",
+        "16": "Spring over",
+        "5": "Fil",
+        "12": "Systemapps",
+        "6": "Backup",
+        "13": "Vælg app",
+        "7": "Gendan",
+        "8": "Nulstil",
+        "14": "Genvejen har en ny opdatering, vil du downloade den nu?",
+        "1": "Sprog indstillet...",
+        "9": "Søg"
+      },
+      "plugin": {
+        "1": "👋🏻 Hej! Denne genvej kræver et plugin for at vise app-listen. Installer plugin nu.",
+        "2": "Installer",
+        "3": "Spring over",
+        "4": "Ingen apps i listen. Tilføj apps fra genvejen \"Quick App Launcher\".",
+        "5": "Tilføj dette plugin for at vise din app-liste !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Tilføj app"
+      }
+    },
+    "de-DE": {
+      "menu": {
+        "7": "Sprache ändern",
+        "3": "App-Einstellungen",
+        "8": "Zum Home-Bildschirm hinzufügen",
+        "4": "Backup & Wiederherstellung",
+        "9": "Weitere Infos",
+        "5": "Symbol ändern",
+        "1": "App hinzufügen",
+        "6": "Limit festlegen",
+        "2": "App löschen",
+        "10": "Zurück"
+      },
+      "messages": {
+        "10": "Name eingeben",
+        "2": "Quick App Launcher Kurzbefehl, erstellt von Sentechtipsvn",
+        "15": "Laden",
+        "3": "Aktuelle App:",
+        "11": "Limit für das Hinzufügen von Apps festgelegt, du kannst es in den Limit-Einstellungen ändern!",
+        "4": "Foto",
+        "16": "Überspringen",
+        "5": "Datei",
+        "12": "System-Apps",
+        "6": "Backup",
+        "13": "App auswählen",
+        "7": "Wiederherstellen",
+        "8": "Zurücksetzen",
+        "14": "Der Kurzbefehl hat eine neue Update-Version, möchtest du sie jetzt herunterladen?",
+        "1": "Sprache erfolgreich festgelegt...",
+        "9": "Suchen"
+      },
+      "plugin": {
+        "1": "👋🏻 Hallo! Dieser Kurzbefehl benötigt ein Plugin, um die App-Liste anzuzeigen. Installiere jetzt das Plugin.",
+        "2": "Installieren",
+        "3": "Überspringen",
+        "4": "Keine Apps in der Liste. Bitte füge Apps aus dem Kurzbefehl \"Quick App Launcher\" hinzu.",
+        "5": "Füge dieses Plugin hinzu, um deine App-Liste anzuzeigen !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "App hinzufügen"
+      }
+    },
+    "el-GR": {
+      "menu": {
+        "7": "Αλλαγή γλώσσας",
+        "3": "Ρυθμίσεις εφαρμογής",
+        "8": "Προσθήκη στην αρχική οθόνη",
+        "4": "Δημιουργία αντιγράφων ασφαλείας και επαναφορά",
+        "9": "Περισσότερες πληροφορίες",
+        "5": "Αλλαγή εικονιδίου",
+        "1": "Προσθήκη εφαρμογής",
+        "6": "Ορισμός ορίου",
+        "2": "Διαγραφή εφαρμογής",
+        "10": "Πίσω"
+      },
+      "messages": {
+        "10": "Εισαγωγή ονόματος",
+        "2": "Συντόμευση Quick App Launcher που δημιουργήθηκε από τον Sentechtipsvn",
+        "15": "Λήψη",
+        "3": "Τρέχουσα εφαρμογή:",
+        "11": "Το όριο προσθήκης εφαρμογών ορίστηκε, μπορείτε να το αλλάξετε στις ρυθμίσεις ορίου!",
+        "4": "Φωτογραφία",
+        "16": "Παράλειψη",
+        "5": "Αρχείο",
+        "12": "Εφαρμογές συστήματος",
+        "6": "Δημιουργία αντιγράφων ασφαλείας",
+        "13": "Επιλογή εφαρμογής",
+        "7": "Επαναφορά",
+        "8": "Επαναφορά",
+        "14": "Η συντόμευση έχει νέα έκδοση ενημέρωσης, θέλετε να την κατεβάσετε τώρα;",
+        "1": "Η γλώσσα ορίστηκε με επιτυχία...",
+        "9": "Αναζήτηση"
+      },
+      "plugin": {
+        "1": "👋🏻 Γεια σας! Αυτή η συντόμευση χρειάζεται ένα πρόσθετο για να εμφανίσει τη λίστα εφαρμογών. Εγκαταστήστε το πρόσθετο τώρα.",
+        "2": "Εγκατάσταση",
+        "3": "Παράλειψη",
+        "4": "Δεν υπάρχουν εφαρμογές στη λίστα. Προσθέστε εφαρμογές από τη συντόμευση \"Quick App Launcher\".",
+        "5": "Προσθέστε αυτό το πρόσθετο για να εμφανίσετε τη λίστα εφαρμογών σας !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Προσθήκη εφαρμογής"
+      }
+    },
+    "en-GB": {
+      "menu": {
+        "7": "Change Language",
+        "3": "App Settings",
+        "8": "Add to Home Screen",
+        "4": "Backup & Restore",
+        "9": "More Info",
+        "5": "Change Icon",
+        "1": "Add App",
+        "6": "Set Limit",
+        "2": "Delete App",
+        "10": "Back"
+      },
+      "messages": {
+        "10": "Enter name",
+        "2": "Quick App Launcher shortcut created by Sentechtipsvn",
+        "15": "Download",
+        "3": "Current app:",
+        "11": "App addition limit set, you can change it in the limit settings!",
+        "4": "Photo",
+        "16": "Skip",
+        "5": "File",
+        "12": "System apps",
+        "6": "Backup",
+        "13": "Choose app",
+        "7": "Restore",
+        "8": "Reset",
+        "14": "The shortcut has a new update version, do you want to download it now?",
+        "1": "Language set successfully...",
+        "9": "Search"
+      },
+      "plugin": {
+        "1": "👋🏻 Hello! This shortcut needs a plugin to display the app list. Please install the plugin now.",
+        "2": "Install",
+        "3": "Skip",
+        "4": "No apps in the list. Please add apps from the \"Quick App Launcher\" shortcut.",
+        "5": "Add this plugin to display your app list !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Add App"
+      }
+    },
+    "en-US": {
+      "menu": {
+        "7": "Change Language",
+        "3": "App Settings",
+        "8": "Add to Home Screen",
+        "4": "Backup & Restore",
+        "9": "More Info",
+        "5": "Change Icon",
+        "1": "Add App",
+        "6": "Set Limit",
+        "2": "Delete App",
+        "10": "Back"
+      },
+      "messages": {
+        "10": "Enter name",
+        "2": "Quick App Launcher shortcut created by Sentechtipsvn",
+        "15": "Download",
+        "3": "Current app:",
+        "11": "App addition limit set, you can change it in the limit settings!",
+        "4": "Photo",
+        "16": "Skip",
+        "5": "File",
+        "12": "System apps",
+        "6": "Backup",
+        "13": "Choose app",
+        "7": "Restore",
+        "8": "Reset",
+        "14": "The shortcut has a new update version, do you want to download it now?",
+        "1": "Language set successfully...",
+        "9": "Search"
+      },
+      "plugin": {
+        "1": "👋🏻 Hello! This shortcut needs a plugin to display the app list. Please install the plugin now.",
+        "2": "Install",
+        "3": "Skip",
+        "4": "No apps in the list. Please add apps from the \"Quick App Launcher\" shortcut.",
+        "5": "Add this plugin to display your app list !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Add App"
+      }
+    },
+    "es-ES": {
+      "menu": {
+        "7": "Cambiar idioma",
+        "3": "Ajustes de la app",
+        "8": "Añadir a la pantalla de inicio",
+        "4": "Copia de seguridad y restauración",
+        "9": "Más información",
+        "5": "Cambiar icono",
+        "1": "Añadir app",
+        "6": "Establecer límite",
+        "2": "Eliminar app",
+        "10": "Volver"
+      },
+      "messages": {
+        "10": "Introduce el nombre",
+        "2": "Atajo Quick App Launcher creado por Sentechtipsvn",
+        "15": "Descargar",
+        "3": "App actual:",
+        "11": "Límite de añadir apps establecido, ¡puedes cambiarlo en los ajustes de límite!",
+        "4": "Foto",
+        "16": "Omitir",
+        "5": "Archivo",
+        "12": "Apps del sistema",
+        "6": "Copia de seguridad",
+        "13": "Elegir app",
+        "7": "Restaurar",
+        "8": "Restablecer",
+        "14": "El atajo tiene una nueva versión, ¿quieres descargarla ahora?",
+        "1": "Idioma configurado correctamente...",
+        "9": "Buscar"
+      },
+      "plugin": {
+        "1": "👋🏻 ¡Hola! Este atajo necesita un complemento para mostrar la lista de aplicaciones. Instala el complemento ahora.",
+        "2": "Instalar",
+        "3": "Omitir",
+        "4": "No hay aplicaciones en la lista. Añade aplicaciones desde el atajo \"Quick App Launcher\".",
+        "5": "¡Añade este complemento para mostrar tu lista de aplicaciones !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Añadir app"
+      }
+    },
+    "es-MX": {
+      "menu": {
+        "7": "Cambiar idioma",
+        "3": "Configuración de la app",
+        "8": "Agregar a la pantalla de inicio",
+        "4": "Respaldo y restauración",
+        "9": "Más información",
+        "5": "Cambiar ícono",
+        "1": "Agregar app",
+        "6": "Establecer límite",
+        "2": "Eliminar app",
+        "10": "Volver"
+      },
+      "messages": {
+        "10": "Ingresa el nombre",
+        "2": "Atajo Quick App Launcher creado por Sentechtipsvn",
+        "15": "Descargar",
+        "3": "App actual:",
+        "11": "Límite para agregar apps establecido, ¡puedes cambiarlo en la configuración de límite!",
+        "4": "Foto",
+        "16": "Omitir",
+        "5": "Archivo",
+        "12": "Apps del sistema",
+        "6": "Respaldo",
+        "13": "Elegir app",
+        "7": "Restaurar",
+        "8": "Restablecer",
+        "14": "El atajo tiene una nueva actualización, ¿quieres descargarla ahora?",
+        "1": "Idioma configurado correctamente...",
+        "9": "Buscar"
+      },
+      "plugin": {
+        "1": "👋🏻 ¡Hola! Este atajo necesita un complemento para mostrar la lista de aplicaciones. Instala el complemento ahora mismo.",
+        "2": "Instalar",
+        "3": "Omitir",
+        "4": "No hay aplicaciones en la lista. Agrega aplicaciones desde el atajo \"Quick App Launcher\".",
+        "5": "¡Agrega este complemento para mostrar tu lista de aplicaciones !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Agregar app"
+      }
+    },
+    "fa-IR": {
+      "menu": {
+        "7": "تغییر زبان",
+        "3": "تنظیمات برنامه",
+        "8": "افزودن به صفحه اصلی",
+        "4": "پشتیبان‌گیری و بازیابی",
+        "9": "اطلاعات بیشتر",
+        "5": "تغییر نماد",
+        "1": "افزودن برنامه",
+        "6": "تنظیم محدودیت",
+        "2": "حذف برنامه",
+        "10": "بازگشت"
+      },
+      "messages": {
+        "10": "نام را وارد کنید",
+        "2": "میانبر Quick App Launcher ساخته شده توسط Sentechtipsvn",
+        "15": "بارگیری",
+        "3": "برنامه فعلی:",
+        "11": "محدودیت افزودن برنامه تنظیم شده است، می‌توانید آن را در بخش تنظیم محدودیت تغییر دهید!",
+        "4": "عکس",
+        "16": "رد کردن",
+        "5": "فایل",
+        "12": "برنامه‌های سیستم",
+        "6": "پشتیبان‌گیری",
+        "13": "انتخاب برنامه",
+        "7": "بازگردانی",
+        "8": "بازنشانی",
+        "14": "میانبر نسخه به‌روزرسانی جدیدی دارد، آیا می‌خواهید اکنون بارگیری کنید؟",
+        "1": "تنظیم زبان با موفقیت انجام شد...",
+        "9": "جستجو"
+      },
+      "plugin": {
+        "1": "👋🏻 سلام ! این میان‌بر به یک افزونه برای نمایش لیست برنامه‌ها نیاز دارد، لطفاً همین حالا افزونه را نصب کنید.",
+        "2": "نصب",
+        "3": "رد کردن",
+        "4": "هیچ برنامه‌ای در لیست وجود ندارد، لطفاً برنامه‌ها را از میان‌بر \"Quick App Launcher\" اضافه کنید.",
+        "5": "این افزونه را اضافه کنید تا لیست برنامه‌های شما نمایش داده شود !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "افزودن برنامه"
+      }
+    },
+    "fi-FI": {
+      "menu": {
+        "7": "Vaihda kieli",
+        "3": "Sovelluksen asetukset",
+        "8": "Lisää aloitusnäyttöön",
+        "4": "Varmuuskopiointi ja palautus",
+        "9": "Lisätietoja",
+        "5": "Vaihda kuvake",
+        "1": "Lisää sovellus",
+        "6": "Aseta raja",
+        "2": "Poista sovellus",
+        "10": "Takaisin"
+      },
+      "messages": {
+        "10": "Syötä nimi",
+        "2": "Quick App Launcher -pikakuvake, tekijä Sentechtipsvn",
+        "15": "Lataa",
+        "3": "Nykyinen sovellus:",
+        "11": "Sovellusten lisäysraja asetettu, voit muuttaa sitä raja-asetuksissa!",
+        "4": "Kuva",
+        "16": "Ohita",
+        "5": "Tiedosto",
+        "12": "Järjestelmäsovellukset",
+        "6": "Varmuuskopioi",
+        "13": "Valitse sovellus",
+        "7": "Palauta",
+        "8": "Nollaa",
+        "14": "Pikakuvakkeesta on uusi päivitysversio, haluatko ladata nyt?",
+        "1": "Kieli asetettu onnistuneesti...",
+        "9": "Etsi"
+      },
+      "plugin": {
+        "1": "👋🏻 Hei! Tämä pikakuvake tarvitsee liitännäisen sovellusluettelon näyttämiseen. Asenna liitännäinen nyt.",
+        "2": "Asenna",
+        "3": "Ohita",
+        "4": "Ei sovelluksia luettelossa. Lisää sovelluksia pikakuvakkeesta \"Quick App Launcher\".",
+        "5": "Lisää tämä liitännäinen näyttääksesi sovellusluettelosi !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Lisää sovellus"
+      }
+    },
+    "fil-PH": {
+      "menu": {
+        "7": "Palitan ang wika",
+        "3": "Mga setting ng app",
+        "8": "Idagdag sa home screen",
+        "4": "I-backup at I-restore",
+        "9": "Higit pang impormasyon",
+        "5": "Palitan ang icon",
+        "1": "Magdagdag ng app",
+        "6": "Magtakda ng limitasyon",
+        "2": "Burahin ang app",
+        "10": "Bumalik"
+      },
+      "messages": {
+        "10": "Ilagay ang pangalan",
+        "2": "Quick App Launcher shortcut na ginawa ni Sentechtipsvn",
+        "15": "I-download",
+        "3": "Kasalukuyang app:",
+        "11": "Naitakda na ang limitasyon sa pagdagdag ng app, maaari mo itong baguhin sa mga setting ng limitasyon!",
+        "4": "Larawan",
+        "16": "Laktawan",
+        "5": "File",
+        "12": "Mga system app",
+        "6": "I-backup",
+        "13": "Pumili ng app",
+        "7": "I-restore",
+        "8": "I-reset",
+        "14": "May bagong update ang shortcut, gusto mo ba itong i-download ngayon?",
+        "1": "Matagumpay na naitakda ang wika...",
+        "9": "Maghanap"
+      },
+      "plugin": {
+        "1": "👋🏻 Kumusta! Ang shortcut na ito ay nangangailangan ng plugin upang ipakita ang listahan ng mga app. I-install ang plugin ngayon.",
+        "2": "I-install",
+        "3": "Laktawan",
+        "4": "Walang app sa listahan. Mangyaring magdagdag ng mga app mula sa shortcut na \"Quick App Launcher\".",
+        "5": "Idagdag ang plugin na ito upang ipakita ang iyong listahan ng mga app !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Magdagdag ng app"
+      }
+    },
+    "fr-CA": {
+      "menu": {
+        "7": "Changer la langue",
+        "3": "Réglages de l'app",
+        "8": "Ajouter à l'écran d'accueil",
+        "4": "Sauvegarde et restauration",
+        "9": "Plus d'infos",
+        "5": "Changer l'icône",
+        "1": "Ajouter l'app",
+        "6": "Définir une limite",
+        "2": "Supprimer l'app",
+        "10": "Retour"
+      },
+      "messages": {
+        "10": "Saisir le nom",
+        "2": "Raccourci Quick App Launcher créé par Sentechtipsvn",
+        "15": "Télécharger",
+        "3": "App actuelle :",
+        "11": "Limite d'ajout d'app définie, vous pouvez la modifier dans les réglages de limite !",
+        "4": "Photo",
+        "16": "Ignorer",
+        "5": "Fichier",
+        "12": "Apps système",
+        "6": "Sauvegarder",
+        "13": "Choisir l'app",
+        "7": "Restaurer",
+        "8": "Réinitialiser",
+        "14": "Le raccourci a une nouvelle version de mise à jour, voulez-vous la télécharger maintenant ?",
+        "1": "Langue définie avec succès...",
+        "9": "Rechercher"
+      },
+      "plugin": {
+        "1": "👋🏻 Bonjour ! Ce raccourci a besoin d'un plugin pour afficher la liste des applications. Installez le plugin maintenant.",
+        "2": "Installer",
+        "3": "Ignorer",
+        "4": "Aucune application dans la liste. Veuillez ajouter des applications depuis le raccourci \"Quick App Launcher\".",
+        "5": "Ajoutez ce plugin pour afficher votre liste d'applications !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Ajouter l'app"
+      }
+    },
+    "fr-FR": {
+      "menu": {
+        "7": "Changer la langue",
+        "3": "Réglages de l'app",
+        "8": "Ajouter à l'écran d'accueil",
+        "4": "Sauvegarde et restauration",
+        "9": "Plus d'infos",
+        "5": "Changer l'icône",
+        "1": "Ajouter l'app",
+        "6": "Définir une limite",
+        "2": "Supprimer l'app",
+        "10": "Retour"
+      },
+      "messages": {
+        "10": "Saisir le nom",
+        "2": "Raccourci Quick App Launcher créé par Sentechtipsvn",
+        "15": "Télécharger",
+        "3": "App actuelle :",
+        "11": "Limite d'ajout d'app définie, vous pouvez la modifier dans les réglages de limite !",
+        "4": "Photo",
+        "16": "Ignorer",
+        "5": "Fichier",
+        "12": "Apps système",
+        "6": "Sauvegarder",
+        "13": "Choisir l'app",
+        "7": "Restaurer",
+        "8": "Réinitialiser",
+        "14": "Le raccourci a une nouvelle version de mise à jour, voulez-vous la télécharger maintenant ?",
+        "1": "Langue définie avec succès...",
+        "9": "Rechercher"
+      },
+      "plugin": {
+        "1": "👋🏻 Bonjour ! Ce raccourci a besoin d'un plugin pour afficher la liste des applications. Installez le plugin maintenant.",
+        "2": "Installer",
+        "3": "Ignorer",
+        "4": "Aucune application dans la liste. Veuillez ajouter des applications depuis le raccourci \"Quick App Launcher\".",
+        "5": "Ajoutez ce plugin pour afficher votre liste d'applications !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Ajouter l'app"
+      }
+    },
+    "hi-IN": {
+      "menu": {
+        "7": "भाषा बदलें",
+        "3": "ऐप सेटिंग",
+        "8": "होम स्क्रीन में जोड़ें",
+        "4": "बैकअप और पुनर्स्थापित",
+        "9": "अधिक जानकारी",
+        "5": "आइकन बदलें",
+        "1": "ऐप जोड़ें",
+        "6": "सीमा तय करें",
+        "2": "ऐप हटाएं",
+        "10": "वापस"
+      },
+      "messages": {
+        "10": "नाम दर्ज करें",
+        "2": "Sentechtipsvn द्वारा बनाया गया Quick App Launcher शॉर्टकट",
+        "15": "डाउनलोड करें",
+        "3": "वर्तमान ऐप:",
+        "11": "ऐप जोड़ने की सीमा निर्धारित कर दी गई है, आप इसे सीमा सेटिंग में बदल सकते हैं!",
+        "4": "फ़ोटो",
+        "16": "छोड़ें",
+        "5": "फ़ाइल",
+        "12": "सिस्टम ऐप",
+        "6": "बैकअप",
+        "13": "ऐप चुनें",
+        "7": "पुनर्स्थापित करें",
+        "8": "रीसेट करें",
+        "14": "शॉर्टकट का नया अपडेट उपलब्ध है, क्या आप अभी डाउनलोड करना चाहते हैं?",
+        "1": "भाषा सफलतापूर्वक सेट हो गई...",
+        "9": "खोजें"
+      },
+      "plugin": {
+        "1": "👋🏻 नमस्ते! इस शॉर्टकट को ऐप्स की सूची दिखाने के लिए एक प्लगइन की आवश्यकता है। कृपया अभी प्लगइन इंस्टॉल करें।",
+        "2": "इंस्टॉल करें",
+        "3": "छोड़ें",
+        "4": "सूची में कोई ऐप नहीं है। कृपया \"Quick App Launcher\" शॉर्टकट से ऐप्स जोड़ें।",
+        "5": "अपनी ऐप्स सूची दिखाने के लिए यह प्लगइन जोड़ें !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "ऐप जोड़ें"
+      }
+    },
+    "hu-HU": {
+      "menu": {
+        "7": "Nyelv módosítása",
+        "3": "Alkalmazás beállításai",
+        "8": "Hozzáadás a kezdőképernyőhöz",
+        "4": "Biztonsági mentés és visszaállítás",
+        "9": "További információ",
+        "5": "Ikon módosítása",
+        "1": "Alkalmazás hozzáadása",
+        "6": "Korlát beállítása",
+        "2": "Alkalmazás törlése",
+        "10": "Vissza"
+      },
+      "messages": {
+        "10": "Adja meg a nevet",
+        "2": "Quick App Launcher parancsikon, készítette: Sentechtipsvn",
+        "15": "Letöltés",
+        "3": "Jelenlegi alkalmazás:",
+        "11": "Az alkalmazás hozzáadásának korlátja beállítva, a limit beállításoknál módosíthatja!",
+        "4": "Fénykép",
+        "16": "Kihagyás",
+        "5": "Fájl",
+        "12": "Rendszeralkalmazások",
+        "6": "Biztonsági mentés",
+        "13": "Alkalmazás kiválasztása",
+        "7": "Visszaállítás",
+        "8": "Visszaállítás",
+        "14": "A parancsikonnak új frissítése érhető el, szeretné most letölteni?",
+        "1": "Nyelv sikeresen beállítva...",
+        "9": "Keresés"
+      },
+      "plugin": {
+        "1": "👋🏻 Szia! Ehhez a parancsikonhoz egy bővítmény szükséges az alkalmazáslista megjelenítéséhez, telepítsd most a bővítményt.",
+        "2": "Telepítés",
+        "3": "Kihagyás",
+        "4": "Nincs alkalmazás a listában, kérlek adj hozzá alkalmazásokat a \"Quick App Launcher\" parancsikonból.",
+        "5": "Add hozzá ezt a bővítményt az alkalmazáslista megjelenítéséhez !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Alkalmazás hozzáadása"
+      }
+    },
+    "id-ID": {
+      "menu": {
+        "7": "Ubah bahasa",
+        "3": "Pengaturan aplikasi",
+        "8": "Tambahkan ke layar utama",
+        "4": "Cadangkan & Pulihkan",
+        "9": "Info lebih lanjut",
+        "5": "Ubah ikon",
+        "1": "Tambah aplikasi",
+        "6": "Tetapkan batas",
+        "2": "Hapus aplikasi",
+        "10": "Kembali"
+      },
+      "messages": {
+        "10": "Masukkan nama",
+        "2": "Pintasan Quick App Launcher dibuat oleh Sentechtipsvn",
+        "15": "Unduh",
+        "3": "Aplikasi saat ini:",
+        "11": "Batas penambahan aplikasi telah ditetapkan, Anda dapat mengubahnya di pengaturan batas!",
+        "4": "Foto",
+        "16": "Lewati",
+        "5": "File",
+        "12": "Aplikasi sistem",
+        "6": "Cadangkan",
+        "13": "Pilih aplikasi",
+        "7": "Pulihkan",
+        "8": "Atur ulang",
+        "14": "Pintasan memiliki versi pembaruan baru, apakah Anda ingin mengunduh sekarang?",
+        "1": "Bahasa berhasil diatur...",
+        "9": "Cari"
+      },
+      "plugin": {
+        "1": "👋🏻 Halo! Pintasan ini memerlukan plugin untuk menampilkan daftar aplikasi. Pasang plugin sekarang.",
+        "2": "Pasang",
+        "3": "Lewati",
+        "4": "Tidak ada aplikasi dalam daftar. Silakan tambahkan aplikasi dari pintasan \"Quick App Launcher\".",
+        "5": "Tambahkan plugin ini untuk menampilkan daftar aplikasi Anda !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Tambah aplikasi"
+      }
+    },
+    "it-IT": {
+      "menu": {
+        "7": "Cambia lingua",
+        "3": "Impostazioni app",
+        "8": "Aggiungi alla schermata Home",
+        "4": "Backup e ripristino",
+        "9": "Ulteriori informazioni",
+        "5": "Cambia icona",
+        "1": "Aggiungi app",
+        "6": "Imposta limite",
+        "2": "Elimina app",
+        "10": "Indietro"
+      },
+      "messages": {
+        "10": "Inserisci nome",
+        "2": "Comando rapido Quick App Launcher creato da Sentechtipsvn",
+        "15": "Scarica",
+        "3": "App attuale:",
+        "11": "Limite di aggiunta app impostato, puoi modificarlo nelle impostazioni del limite!",
+        "4": "Foto",
+        "16": "Salta",
+        "5": "File",
+        "12": "App di sistema",
+        "6": "Backup",
+        "13": "Scegli app",
+        "7": "Ripristina",
+        "8": "Resetta",
+        "14": "Il comando rapido ha una nuova versione di aggiornamento, vuoi scaricarlo ora?",
+        "1": "Lingua impostata con successo...",
+        "9": "Cerca"
+      },
+      "plugin": {
+        "1": "👋🏻 Ciao! Questa scorciatoia richiede un plugin per visualizzare l'elenco delle app. Installa il plugin ora.",
+        "2": "Installa",
+        "3": "Salta",
+        "4": "Nessuna app nell'elenco. Aggiungi app dalla scorciatoia \"Quick App Launcher\".",
+        "5": "Aggiungi questo plugin per visualizzare il tuo elenco di app !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Aggiungi app"
+      }
+    },
+    "ja": {
+      "menu": {
+        "7": "言語を変更",
+        "3": "アプリ設定",
+        "8": "ホーム画面に追加",
+        "4": "バックアップと復元",
+        "9": "詳細情報",
+        "5": "アイコンを変更",
+        "1": "アプリを追加",
+        "6": "制限を設定",
+        "2": "アプリを削除",
+        "10": "戻る"
+      },
+      "messages": {
+        "10": "名前を入力",
+        "2": "Sentechtipsvn 作のクイックアプリ起動ショートカット",
+        "15": "ダウンロード",
+        "3": "現在のアプリ：",
+        "11": "アプリ追加の制限が設定されました。制限設定で変更できます！",
+        "4": "写真",
+        "16": "スキップ",
+        "5": "ファイル",
+        "12": "システムアプリ",
+        "6": "バックアップ",
+        "13": "アプリを選択",
+        "7": "復元",
+        "8": "リセット",
+        "14": "ショートカットに新しいアップデートがあります。今すぐダウンロードしますか？",
+        "1": "言語が正常に設定されました...",
+        "9": "検索"
+      },
+      "plugin": {
+        "1": "👋🏻 こんにちは！このショートカットはアプリ一覧を表示するためにプラグインが必要です。今すぐプラグインをインストールしてください。",
+        "2": "インストール",
+        "3": "スキップ",
+        "4": "リストにアプリがありません。「Quick App Launcher」ショートカットからアプリを追加してください。",
+        "5": "このプラグインを追加して、アプリ一覧を表示しましょう！！！"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "アプリを追加"
+      }
+    },
+    "ko-KR": {
+      "menu": {
+        "7": "언어 변경",
+        "3": "앱 설정",
+        "8": "홈 화면에 추가",
+        "4": "백업 및 복원",
+        "9": "추가 정보",
+        "5": "아이콘 변경",
+        "1": "앱 추가",
+        "6": "한도 설정",
+        "2": "앱 삭제",
+        "10": "뒤로"
+      },
+      "messages": {
+        "10": "이름 입력",
+        "2": "Sentechtipsvn이 만든 Quick App Launcher 단축어",
+        "15": "다운로드",
+        "3": "현재 앱:",
+        "11": "앱 추가 한도가 설정되었습니다. 한도 설정에서 변경할 수 있습니다!",
+        "4": "사진",
+        "16": "건너뛰기",
+        "5": "파일",
+        "12": "시스템 앱",
+        "6": "백업",
+        "13": "앱 선택",
+        "7": "복원",
+        "8": "재설정",
+        "14": "단축어에 새 업데이트 버전이 있습니다. 지금 다운로드하시겠습니까?",
+        "1": "언어가 성공적으로 설정되었습니다...",
+        "9": "검색"
+      },
+      "plugin": {
+        "1": "👋🏻 안녕하세요! 이 단축어는 앱 목록을 표시하기 위해 플러그인이 필요합니다. 지금 플러그인을 설치하세요.",
+        "2": "설치",
+        "3": "건너뛰기",
+        "4": "목록에 앱이 없습니다. \"Quick App Launcher\" 단축어에서 앱을 추가해 주세요.",
+        "5": "앱 목록을 표시하려면 이 플러그인을 추가하세요 !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "앱 추가"
+      }
+    },
+    "ms-MY": {
+      "menu": {
+        "7": "Tukar bahasa",
+        "3": "Tetapan apl",
+        "8": "Tambah ke skrin utama",
+        "4": "Sandar & Pulihkan",
+        "9": "Maklumat lanjut",
+        "5": "Tukar ikon",
+        "1": "Tambah apl",
+        "6": "Tetapkan had",
+        "2": "Padam apl",
+        "10": "Kembali"
+      },
+      "messages": {
+        "10": "Masukkan nama",
+        "2": "Pintasan Quick App Launcher dicipta oleh Sentechtipsvn",
+        "15": "Muat turun",
+        "3": "Aplikasi semasa:",
+        "11": "Had penambahan aplikasi telah ditetapkan, anda boleh menukarnya dalam tetapan had!",
+        "4": "Foto",
+        "16": "Langkau",
+        "5": "Fail",
+        "12": "Aplikasi sistem",
+        "6": "Sandar",
+        "13": "Pilih aplikasi",
+        "7": "Pulihkan",
+        "8": "Set semula",
+        "14": "Pintasan mempunyai kemas kini versi baharu, adakah anda mahu memuat turun sekarang?",
+        "1": "Bahasa berjaya ditetapkan...",
+        "9": "Cari"
+      },
+      "plugin": {
+        "1": "👋🏻 Hai! Pintasan ini memerlukan pemalam untuk memaparkan senarai aplikasi. Sila pasang pemalam sekarang.",
+        "2": "Pasang",
+        "3": "Langkau",
+        "4": "Tiada aplikasi dalam senarai. Sila tambah aplikasi daripada pintasan \"Quick App Launcher\".",
+        "5": "Tambah pemalam ini untuk memaparkan senarai aplikasi anda !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Tambah apl"
+      }
+    },
+    "nb-NO": {
+      "menu": {
+        "7": "Endre språk",
+        "3": "Appinnstillinger",
+        "8": "Legg til på startskjermen",
+        "4": "Sikkerhetskopiering og gjenoppretting",
+        "9": "Mer informasjon",
+        "5": "Endre ikon",
+        "1": "Legg til app",
+        "6": "Angi grense",
+        "2": "Slett app",
+        "10": "Tilbake"
+      },
+      "messages": {
+        "10": "Skriv inn navn",
+        "2": "Quick App Launcher-snarvei laget av Sentechtipsvn",
+        "15": "Last ned",
+        "3": "Nåværende app:",
+        "11": "Grense for å legge til app er satt, du kan endre den i grenseinnstillingene!",
+        "4": "Foto",
+        "16": "Hopp over",
+        "5": "Fil",
+        "12": "Systemapper",
+        "6": "Sikkerhetskopier",
+        "13": "Velg app",
+        "7": "Gjenopprett",
+        "8": "Tilbakestill",
+        "14": "Snarveien har en ny oppdatering, vil du laste den ned nå?",
+        "1": "Språk er angitt...",
+        "9": "Søk"
+      },
+      "plugin": {
+        "1": "👋🏻 Hei! Denne snarveien trenger et plugin for å vise applisten. Installer plugin nå.",
+        "2": "Installer",
+        "3": "Hopp over",
+        "4": "Ingen apper i listen. Legg til apper fra snarveien \"Quick App Launcher\".",
+        "5": "Legg til dette plugin for å vise applisten din !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Legg til app"
+      }
+    },
+    "nl-NL": {
+      "menu": {
+        "7": "Taal wijzigen",
+        "3": "App-instellingen",
+        "8": "Voeg toe aan beginscherm",
+        "4": "Back-up en herstel",
+        "9": "Meer info",
+        "5": "Icoon wijzigen",
+        "1": "App toevoegen",
+        "6": "Limiet instellen",
+        "2": "App verwijderen",
+        "10": "Terug"
+      },
+      "messages": {
+        "10": "Voer naam in",
+        "2": "Quick App Launcher snelkoppeling gemaakt door Sentechtipsvn",
+        "15": "Download",
+        "3": "Huidige app:",
+        "11": "Limiet voor het toevoegen van apps ingesteld, je kunt deze wijzigen in de limietinstellingen!",
+        "4": "Foto",
+        "16": "Overslaan",
+        "5": "Bestand",
+        "12": "Systeemapps",
+        "6": "Back-up",
+        "13": "Kies app",
+        "7": "Herstel",
+        "8": "Herstel",
+        "14": "De snelkoppeling heeft een nieuwe updateversie, wil je deze nu downloaden?",
+        "1": "Taal succesvol ingesteld...",
+        "9": "Zoek"
+      },
+      "plugin": {
+        "1": "👋🏻 Hallo! Deze snelkoppeling heeft een plug-in nodig om de app-lijst weer te geven. Installeer de plug-in nu.",
+        "2": "Installeren",
+        "3": "Overslaan",
+        "4": "Geen apps in de lijst. Voeg apps toe vanuit de snelkoppeling \"Quick App Launcher\".",
+        "5": "Voeg deze plug-in toe om uw app-lijst weer te geven !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "App toevoegen"
+      }
+    },
+    "pl-PL": {
+      "menu": {
+        "7": "Zmień język",
+        "3": "Ustawienia aplikacji",
+        "8": "Dodaj do ekranu głównego",
+        "4": "Kopia zapasowa i przywracanie",
+        "9": "Więcej informacji",
+        "5": "Zmień ikonę",
+        "1": "Dodaj aplikację",
+        "6": "Ustaw limit",
+        "2": "Usuń aplikację",
+        "10": "Wstecz"
+      },
+      "messages": {
+        "10": "Wprowadź nazwę",
+        "2": "Skrót Quick App Launcher utworzony przez Sentechtipsvn",
+        "15": "Pobierz",
+        "3": "Bieżąca aplikacja:",
+        "11": "Limit dodawania aplikacji ustawiony, możesz go zmienić w ustawieniach limitu!",
+        "4": "Zdjęcie",
+        "16": "Pomiń",
+        "5": "Plik",
+        "12": "Aplikacje systemowe",
+        "6": "Kopia zapasowa",
+        "13": "Wybierz aplikację",
+        "7": "Przywróć",
+        "8": "Resetuj",
+        "14": "Skrót ma nową wersję aktualizacji, czy chcesz ją teraz pobrać?",
+        "1": "Język został pomyślnie ustawiony...",
+        "9": "Szukaj"
+      },
+      "plugin": {
+        "1": "👋🏻 Cześć! Ten skrót wymaga wtyczki do wyświetlania listy aplikacji. Zainstaluj wtyczkę teraz.",
+        "2": "Zainstaluj",
+        "3": "Pomiń",
+        "4": "Brak aplikacji na liście. Dodaj aplikacje ze skrótu \"Quick App Launcher\".",
+        "5": "Dodaj tę wtyczkę, aby wyświetlić listę aplikacji !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Dodaj aplikację"
+      }
+    },
+    "pt-BR": {
+      "menu": {
+        "7": "Alterar idioma",
+        "3": "Ajustes do app",
+        "8": "Adicionar à tela de início",
+        "4": "Backup e Restauração",
+        "9": "Mais informações",
+        "5": "Alterar ícone",
+        "1": "Adicionar app",
+        "6": "Definir limite",
+        "2": "Excluir app",
+        "10": "Voltar"
+      },
+      "messages": {
+        "10": "Digite o nome",
+        "2": "Atalho Quick App Launcher criado por Sentechtipsvn",
+        "15": "Baixar",
+        "3": "App atual:",
+        "11": "Limite de adição de apps definido, você pode alterá-lo nas configurações de limite!",
+        "4": "Foto",
+        "16": "Ignorar",
+        "5": "Arquivo",
+        "12": "Apps do sistema",
+        "6": "Backup",
+        "13": "Escolher app",
+        "7": "Restaurar",
+        "8": "Redefinir",
+        "14": "O atalho tem uma nova versão de atualização, deseja baixar agora?",
+        "1": "Idioma definido com sucesso...",
+        "9": "Buscar"
+      },
+      "plugin": {
+        "1": "👋🏻 Olá! Este atalho precisa de um plugin para exibir a lista de aplicativos. Instale o plugin agora mesmo.",
+        "2": "Instalar",
+        "3": "Ignorar",
+        "4": "Não há aplicativos na lista. Adicione aplicativos pelo atalho \"Quick App Launcher\".",
+        "5": "Adicione este plugin para exibir sua lista de aplicativos !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Adicionar app"
+      }
+    },
+    "pt-PT": {
+      "menu": {
+        "7": "Alterar idioma",
+        "3": "Definições da app",
+        "8": "Adicionar ao ecrã principal",
+        "4": "Cópia de segurança e restauro",
+        "9": "Mais informações",
+        "5": "Alterar ícone",
+        "1": "Adicionar app",
+        "6": "Definir limite",
+        "2": "Eliminar app",
+        "10": "Voltar"
+      },
+      "messages": {
+        "10": "Introduza o nome",
+        "2": "Atalho Quick App Launcher criado por Sentechtipsvn",
+        "15": "Descarregar",
+        "3": "App atual:",
+        "11": "Limite de adição de apps definido, pode alterá-lo nas definições de limite!",
+        "4": "Foto",
+        "16": "Ignorar",
+        "5": "Ficheiro",
+        "12": "Apps do sistema",
+        "6": "Cópia de segurança",
+        "13": "Escolher app",
+        "7": "Restaurar",
+        "8": "Repor",
+        "14": "O atalho tem uma nova versão de atualização, pretende descarregar agora?",
+        "1": "Idioma definido com sucesso...",
+        "9": "Pesquisar"
+      },
+      "plugin": {
+        "1": "👋🏻 Olá! Este atalho precisa de um plugin para exibir a lista de aplicações. Instale o plugin agora.",
+        "2": "Instalar",
+        "3": "Ignorar",
+        "4": "Não há aplicações na lista. Adicione aplicações a partir do atalho \"Quick App Launcher\".",
+        "5": "Adicione este plugin para exibir a sua lista de aplicações !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Adicionar app"
+      }
+    },
+    "ro-RO": {
+      "menu": {
+        "7": "Schimbă limba",
+        "3": "Setări aplicație",
+        "8": "Adaugă la ecranul principal",
+        "4": "Backup și restaurare",
+        "9": "Mai multe informații",
+        "5": "Schimbă pictograma",
+        "1": "Adaugă aplicație",
+        "6": "Setează limită",
+        "2": "Șterge aplicația",
+        "10": "Înapoi"
+      },
+      "messages": {
+        "10": "Introduceți numele",
+        "2": "Comandă rapidă Quick App Launcher creată de Sentechtipsvn",
+        "15": "Descărcați",
+        "3": "Aplicația curentă:",
+        "11": "Limita de adăugare a aplicațiilor a fost setată, o puteți modifica în setările limită!",
+        "4": "Fotografie",
+        "16": "Omiteți",
+        "5": "Fișier",
+        "12": "Aplicații de sistem",
+        "6": "Backup",
+        "13": "Alegeți aplicația",
+        "7": "Restaurare",
+        "8": "Resetare",
+        "14": "Comanda rapidă are o nouă versiune de actualizare, doriți să descărcați acum?",
+        "1": "Limba a fost setată cu succes...",
+        "9": "Căutare"
+      },
+      "plugin": {
+        "1": "👋🏻 Bună! Această comandă rapidă necesită un plugin pentru a afișa lista de aplicații. Instalează pluginul acum.",
+        "2": "Instalează",
+        "3": "Sari peste",
+        "4": "Nu există aplicații în listă. Adaugă aplicații din comanda rapidă \"Quick App Launcher\".",
+        "5": "Adaugă acest plugin pentru a afișa lista ta de aplicații !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Adaugă aplicație"
+      }
+    },
+    "ru": {
+      "menu": {
+        "7": "Изменить язык",
+        "3": "Настройки приложения",
+        "8": "Добавить на главный экран",
+        "4": "Резервное копирование и восстановление",
+        "9": "Подробнее",
+        "5": "Изменить значок",
+        "1": "Добавить приложение",
+        "6": "Установить лимит",
+        "2": "Удалить приложение",
+        "10": "Назад"
+      },
+      "messages": {
+        "10": "Введите имя",
+        "2": "Ярлык Quick App Launcher, созданный Sentechtipsvn",
+        "15": "Загрузить",
+        "3": "Текущее приложение:",
+        "11": "Установлен лимит добавления приложений, вы можете изменить его в настройках лимита!",
+        "4": "Фото",
+        "16": "Пропустить",
+        "5": "Файл",
+        "12": "Системные приложения",
+        "6": "Резервное копирование",
+        "13": "Выбрать приложение",
+        "7": "Восстановить",
+        "8": "Сбросить",
+        "14": "У ярлыка есть новая версия обновления, хотите загрузить сейчас?",
+        "1": "Язык успешно установлен...",
+        "9": "Поиск"
+      },
+      "plugin": {
+        "1": "👋🏻 Привет! Для этого быстрого действия требуется плагин для отображения списка приложений. Установите плагин сейчас.",
+        "2": "Установить",
+        "3": "Пропустить",
+        "4": "В списке нет приложений. Пожалуйста, добавьте приложения из быстрого действия \"Quick App Launcher\".",
+        "5": "Добавьте этот плагин, чтобы отобразить список ваших приложений !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Добавить приложение"
+      }
+    },
+    "sv-SE": {
+      "menu": {
+        "7": "Ändra språk",
+        "3": "Appinställningar",
+        "8": "Lägg till på hemskärmen",
+        "4": "Säkerhetskopiering och återställning",
+        "9": "Mer information",
+        "5": "Ändra ikon",
+        "1": "Lägg till app",
+        "6": "Ange gräns",
+        "2": "Radera app",
+        "10": "Tillbaka"
+      },
+      "messages": {
+        "10": "Ange namn",
+        "2": "Quick App Launcher-genväg skapad av Sentechtipsvn",
+        "15": "Hämta",
+        "3": "Aktuell app:",
+        "11": "Gräns för att lägga till appar är inställd, du kan ändra den i gränsinställningarna!",
+        "4": "Foto",
+        "16": "Hoppa över",
+        "5": "Fil",
+        "12": "Systemappar",
+        "6": "Säkerhetskopiera",
+        "13": "Välj app",
+        "7": "Återställ",
+        "8": "Nollställ",
+        "14": "Genvägen har en ny uppdateringsversion, vill du hämta den nu?",
+        "1": "Språket har ställts in...",
+        "9": "Sök"
+      },
+      "plugin": {
+        "1": "👋🏻 Hej! Denna genväg behöver ett plugin för att visa applistan. Installera plugin nu.",
+        "2": "Installera",
+        "3": "Hoppa över",
+        "4": "Inga appar i listan. Lägg till appar från genvägen \"Quick App Launcher\".",
+        "5": "Lägg till detta plugin för att visa din applista !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Lägg till app"
+      }
+    },
+    "sw-KE": {
+      "menu": {
+        "7": "Badilisha lugha",
+        "3": "Mipangilio ya programu",
+        "8": "Ongeza kwenye skrini ya kwanza",
+        "4": "Hifadhi nakala na urejeshi",
+        "9": "Maelezo zaidi",
+        "5": "Badilisha ikoni",
+        "1": "Ongeza programu",
+        "6": "Weka kikomo",
+        "2": "Futa programu",
+        "10": "Rudi"
+      },
+      "messages": {
+        "10": "Ingiza jina",
+        "2": "Njia ya mkato ya Quick App Launcher imeundwa na Sentechtipsvn",
+        "15": "Pakua",
+        "3": "Programu ya sasa:",
+        "11": "Kikomo cha kuongeza programu kimewekwa, unaweza kubadilisha katika mipangilio ya kikomo!",
+        "4": "Picha",
+        "16": "Ruka",
+        "5": "Faili",
+        "12": "Programu za mfumo",
+        "6": "Hifadhi nakala",
+        "13": "Chagua programu",
+        "7": "Rejesha",
+        "8": "Weka upya",
+        "14": "Njia ya mkato ina toleo jipya la sasisho, unataka kupakua sasa?",
+        "1": "Lugha imewekwa kwa ufanisi...",
+        "9": "Tafuta"
+      },
+      "plugin": {
+        "1": "👋🏻 Habari! Njia hii ya mkato inahitaji programu-jalizi kuonyesha orodha ya programu. Sakinisha programu-jalizi sasa.",
+        "2": "Sakinisha",
+        "3": "Ruka",
+        "4": "Hakuna programu kwenye orodha. Tafadhali ongeza programu kutoka kwa njia ya mkato \"Quick App Launcher\".",
+        "5": "Ongeza programu-jalizi hii kuonyesha orodha yako ya programu !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Ongeza programu"
+      }
+    },
+    "th-TH": {
+      "menu": {
+        "7": "เปลี่ยนภาษา",
+        "3": "การตั้งค่าแอป",
+        "8": "เพิ่มไปยังหน้าจอหลัก",
+        "4": "สำรองข้อมูลและกู้คืน",
+        "9": "ข้อมูลเพิ่มเติม",
+        "5": "เปลี่ยนไอคอน",
+        "1": "เพิ่มแอป",
+        "6": "ตั้งค่าขีดจำกัด",
+        "2": "ลบแอป",
+        "10": "กลับ"
+      },
+      "messages": {
+        "10": "ป้อนชื่อ",
+        "2": "ทางลัด Quick App Launcher สร้างโดย Sentechtipsvn",
+        "15": "ดาวน์โหลด",
+        "3": "แอปปัจจุบัน:",
+        "11": "ตั้งค่าขีดจำกัดการเพิ่มแอปแล้ว คุณสามารถเปลี่ยนได้ในการตั้งค่าขีดจำกัด!",
+        "4": "รูปภาพ",
+        "16": "ข้าม",
+        "5": "ไฟล์",
+        "12": "แอประบบ",
+        "6": "สำรองข้อมูล",
+        "13": "เลือกแอป",
+        "7": "กู้คืน",
+        "8": "รีเซ็ต",
+        "14": "ทางลัดมีเวอร์ชันอัปเดตใหม่ คุณต้องการดาวน์โหลดตอนนี้หรือไม่",
+        "1": "ตั้งค่าภาษาสำเร็จแล้ว...",
+        "9": "ค้นหา"
+      },
+      "plugin": {
+        "1": "👋🏻 สวัสดี! ทางลัดนี้จำเป็นต้องมีปลั๊กอินเพื่อแสดงรายการแอป โปรดติดตั้งปลั๊กอินทันที",
+        "2": "ติดตั้ง",
+        "3": "ข้าม",
+        "4": "ไม่มีแอปในรายการ กรุณาเพิ่มแอปจากทางลัด \"Quick App Launcher\"",
+        "5": "เพิ่มปลั๊กอินนี้เพื่อแสดงรายการแอปของคุณ !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "เพิ่มแอป"
+      }
+    },
+    "tr-TR": {
+      "menu": {
+        "7": "Dili Değiştir",
+        "3": "Uygulama Ayarları",
+        "8": "Ana Ekrana Ekle",
+        "4": "Yedekleme ve Geri Yükleme",
+        "9": "Daha Fazla Bilgi",
+        "5": "Simgeyi Değiştir",
+        "1": "Uygulama Ekle",
+        "6": "Sınır Belirle",
+        "2": "Uygulamayı Sil",
+        "10": "Geri"
+      },
+      "messages": {
+        "10": "Ad girin",
+        "2": "Sentechtipsvn tarafından oluşturulan Quick App Launcher kısayolu",
+        "15": "İndir",
+        "3": "Mevcut uygulama:",
+        "11": "Uygulama ekleme sınırı ayarlandı, sınır ayarlarından değiştirebilirsiniz!",
+        "4": "Fotoğraf",
+        "16": "Atla",
+        "5": "Dosya",
+        "12": "Sistem uygulamaları",
+        "6": "Yedekle",
+        "13": "Uygulama seç",
+        "7": "Geri yükle",
+        "8": "Sıfırla",
+        "14": "Kısayolun yeni bir güncelleme sürümü var, şimdi indirmek ister misiniz?",
+        "1": "Dil başarıyla ayarlandı...",
+        "9": "Ara"
+      },
+      "plugin": {
+        "1": "👋🏻 Merhaba! Bu kısayol, uygulama listesini görüntülemek için bir eklentiye ihtiyaç duyar. Lütfen eklentiyi hemen yükleyin.",
+        "2": "Yükle",
+        "3": "Atla",
+        "4": "Listede uygulama yok. Lütfen \"Quick App Launcher\" kısayolundan uygulama ekleyin.",
+        "5": "Uygulama listenizi görüntülemek için bu eklentiyi ekleyin !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Uygulama Ekle"
+      }
+    },
+    "uk-UA": {
+      "menu": {
+        "7": "Змінити мову",
+        "3": "Налаштування програми",
+        "8": "Додати на головний екран",
+        "4": "Резервне копіювання та відновлення",
+        "9": "Додаткова інформація",
+        "5": "Змінити значок",
+        "1": "Додати програму",
+        "6": "Встановити ліміт",
+        "2": "Видалити програму",
+        "10": "Назад"
+      },
+      "messages": {
+        "10": "Введіть назву",
+        "2": "Ярлик Quick App Launcher, створений Sentechtipsvn",
+        "15": "Завантажити",
+        "3": "Поточна програма:",
+        "11": "Ліміт додавання програм встановлено, ви можете змінити його в налаштуваннях ліміту!",
+        "4": "Фото",
+        "16": "Пропустити",
+        "5": "Файл",
+        "12": "Системні програми",
+        "6": "Резервне копіювання",
+        "13": "Вибрати програму",
+        "7": "Відновити",
+        "8": "Скинути",
+        "14": "Ярлик має нову версію оновлення, бажаєте завантажити зараз?",
+        "1": "Мову успішно встановлено...",
+        "9": "Пошук"
+      },
+      "plugin": {
+        "1": "👋🏻 Привіт! Цей швидкий виклик потребує плагіна для відображення списку додатків. Встановіть плагін зараз.",
+        "2": "Встановити",
+        "3": "Пропустити",
+        "4": "У списку немає додатків. Будь ласка, додайте додатки з швидкого виклику \"Quick App Launcher\".",
+        "5": "Додайте цей плагін, щоб відобразити список ваших додатків !!!"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "Додати програму"
+      }
+    },
+    "vi-VN": {
+      "menu": {
+        "7": "Đổi ngôn ngữ",
+        "3": "Cài đặt ứng dụng",
+        "8": "Thêm vào màn hình chính",
+        "4": "Sao lưu & Khôi phục",
+        "9": "Thông tin thêm",
+        "5": "Đổi biểu tượng",
+        "1": "Thêm ứng dụng",
+        "6": "Đặt giới hạn",
+        "2": "Xoá ứng dụng",
+        "10": "Quay lại"
+      },
+      "messages": {
+        "10": "Nhập tên",
+        "2": "Phím tắt Quick App Launcher tạo bởi Sentechtipsvn",
+        "15": "Tải xuống",
+        "3": "Ứng dụng hiện tại :",
+        "11": "Đã đặt giới hạn thêm ứng dụng,bạn có thể thay đổi trong phần đặt giới hạn !",
+        "4": "Ảnh",
+        "16": "Bỏ qua",
+        "5": "Tệp",
+        "12": "Ứng dụng hệ thống",
+        "6": "Sao lưu",
+        "13": "Chọn úng dụng",
+        "7": "Khôi phục",
+        "8": "Đặt lại",
+        "14": "Phím tắt có phiên bản cập nhật mới bạn có muốn tải xuống ngay bây giờ ?",
+        "1": "Đã đặt ngôn ngữ thành công...",
+        "9": "Tìm kiếm"
+      },
+      "plugin": {
+        "1": "👋🏻 Xin chào ! Phím tắt này cần một trình cắm để hiển thị danh sách ứng dụng,hãy cài đặt trình cắm ngay bây giờ.",
+        "2": "Cài đặt",
+        "3": "Bỏ qua",
+        "4": "Chưa có ứng dụng trong danh sách vui lòng thêm ứng dụng từ phím tắt \"Quick App Launcher\"",
+        "5": "Hãy thêm trình cắm này để hiển thị danh sách ứng dụng của bạn !!!"
+      },
+      "ui": {
+        "open_apps": "Mở ứng dụng",
+        "manage_apps": "Quản lý danh sách",
+        "data": "Dữ liệu & sao lưu",
+        "settings": "Cài đặt",
+        "download": "Tải hoặc cập nhật dữ liệu",
+        "shortcut_update": "Bản phím tắt trên Shortcuty",
+        "add_app": "Thêm ứng dụng"
+      }
+    },
+    "zh-CN": {
+      "menu": {
+        "7": "更改语言",
+        "3": "应用设置",
+        "8": "添加到主屏幕",
+        "4": "备份与恢复",
+        "9": "更多信息",
+        "5": "更改图标",
+        "1": "添加应用",
+        "6": "设置限制",
+        "2": "删除应用",
+        "10": "返回"
+      },
+      "messages": {
+        "10": "输入名称",
+        "2": "Quick App Launcher 快捷指令，由 Sentechtipsvn 创建",
+        "15": "下载",
+        "3": "当前 App：",
+        "11": "已设置添加 App 的数量限制，你可以在限制设置中更改！",
+        "4": "照片",
+        "16": "跳过",
+        "5": "文件",
+        "12": "系统 App",
+        "6": "备份",
+        "13": "选择 App",
+        "7": "恢复",
+        "8": "重置",
+        "14": "此快捷指令有新的更新版本，要立即下载吗？",
+        "1": "语言设置成功...",
+        "9": "搜索"
+      },
+      "plugin": {
+        "1": "👋🏻 你好！此快捷指令需要一个插件来显示应用列表，请立即安装该插件。",
+        "2": "安装",
+        "3": "跳过",
+        "4": "列表中没有应用，请从“Quick App Launcher”快捷指令添加应用。",
+        "5": "请添加此插件以显示您的应用列表！！！"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "添加应用"
+      }
+    },
+    "zh-TW": {
+      "menu": {
+        "7": "更改語言",
+        "3": "App 設定",
+        "8": "加入主畫面",
+        "4": "備份與還原",
+        "9": "更多資訊",
+        "5": "更改圖示",
+        "1": "加入 App",
+        "6": "設定限制",
+        "2": "刪除 App",
+        "10": "返回"
+      },
+      "messages": {
+        "10": "輸入名稱",
+        "2": "Quick App Launcher 捷徑，由 Sentechtipsvn 創建",
+        "15": "下載",
+        "3": "目前的 App：",
+        "11": "已設定加入 App 的數量限制，你可以在限制設定中更改！",
+        "4": "照片",
+        "16": "略過",
+        "5": "檔案",
+        "12": "系統 App",
+        "6": "備份",
+        "13": "選擇 App",
+        "7": "回復",
+        "8": "重置",
+        "14": "此捷徑有新的更新版本，要立即下載嗎？",
+        "1": "語言設定成功...",
+        "9": "搜尋"
+      },
+      "plugin": {
+        "1": "👋🏻 你好！此捷徑需要一個外掛程式來顯示應用程式列表，請立即安裝該外掛程式。",
+        "2": "安裝",
+        "3": "跳過",
+        "4": "列表中沒有應用程式，請從「Quick App Launcher」捷徑新增應用程式。",
+        "5": "請新增此外掛程式以顯示您的應用程式列表！！！"
+      },
+      "ui": {
+        "open_apps": "Open Apps",
+        "manage_apps": "Manage App List",
+        "data": "Data & Backup",
+        "settings": "Settings",
+        "download": "Download or Update Data",
+        "shortcut_update": "Shortcut on Shortcuty",
+        "add_app": "加入 App"
+      }
+    }
+  }
+}
