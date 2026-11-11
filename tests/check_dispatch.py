@@ -29,6 +29,22 @@ def references(value):
             yield from references(child)
 
 
+def check_text_tokens(value):
+    if isinstance(value, dict):
+        if "string" in value and "attachmentsByRange" in value:
+            data = value["string"].encode("utf-16-le")
+            tokens = value["attachmentsByRange"]
+            assert len(tokens) == value["string"].count("\ufffc")
+            for location in tokens:
+                offset = int(re.search(r"\d+", location)[0]) * 2
+                assert data[offset:offset + 2] == b"\xfc\xff", location
+        for child in value.values():
+            check_text_tokens(child)
+    elif isinstance(value, list):
+        for child in value:
+            check_text_tokens(child)
+
+
 def route_guard(action):
     if action["WFWorkflowActionIdentifier"] != PREFIX + "text.match":
         return None
@@ -96,6 +112,8 @@ def check(workflow):
             seen.add(parameters["UUID"])
         if kind == PREFIX + "count":
             assert "Input" in parameters and "WFInput" not in parameters, (i, "Count uses the native Input key")
+        if kind == PREFIX + "text.replace":
+            assert parameters["WFInput"]["WFSerializationType"] == "WFTextTokenString", (i, "Replace Text needs a visible text source on iOS")
         if kind == PREFIX + "conditional" and parameters.get("WFControlFlowMode") == 0:
             left = parameters["WFInput"]["Variable"]["Value"]
             if left.get("VariableName") == "Route":
@@ -133,4 +151,6 @@ def check(workflow):
 
 
 if __name__ == "__main__":
-    check(plistlib.loads(Path(sys.argv[1]).read_bytes()))
+    workflow = plistlib.loads(Path(sys.argv[1]).read_bytes())
+    check(workflow)
+    check_text_tokens(workflow)
